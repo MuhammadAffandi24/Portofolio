@@ -16,9 +16,9 @@ From Germany’s unexpected lead in total film output to Ekta Kapoor’s remarka
 
 ### ❤️ Vitapulse – Heart Disease Prediction Web App
 Vitapulse is a user-friendly website developed using Streamlit that predicts the likelihood of heart disease in individuals aged 27 to 77. Designed to support early detection and awareness, this tool leverages machine learning to turn health data into actionable insight.
-⚙️ Key Features
-- 🧠 Machine Learning Model trained on trusted heart disease datasets
-- 🧾 Input Parameters:
+**⚙️ Key Features**
+*🧠 Machine Learning Model trained on trusted heart disease datasets*
+**🧾 Input Parameters:**
 - Chest Pain Type
 - Exercise-Induced Angina
 - Thallium Stress Test Results
@@ -28,16 +28,18 @@ Vitapulse is a user-friendly website developed using Streamlit that predicts the
 - ST Segment Slope
 - Number of Major Vessels
 - Age
-- 📊 Real-time Prediction Output with risk indicators
-- 🎯 Target Users: Individuals aged 27–77, a demographic at heightened cardiovascular risk
-- 🌐 Streamlit-based Interface that's clean, responsive, and accessible
-🎯 Purpose & Impact
+**📊 Real-time Prediction Output with risk indicators**
+*🎯 Target Users:* Individuals aged 27–77, a demographic at heightened cardiovascular risk
+*🌐 Streamlit-based Interface that's clean, responsive, and accessible*
+**🎯 Purpose & Impact**
 The goal of Vitapulse is to empower users with personalized predictions, raise awareness about cardiovascular health, and showcase how data science can contribute to early prevention efforts.
-🚀 Tech Stack
+**🚀 Tech Stack**
 - Python, Pandas, Scikit-learn
 - Streamlit for frontend & deployment
 - Machine Learning: Logistic Regression / Random Forest (customizable)
 - GitHub & Streamlit Cloud for version control and hosting
-🔗 Live Demo
+**🔗 Live Demo**
 👉 [Github](https://github.com/MuhammadAffandi24/MAIProject)
 👉 Try [Vitapulse](https://vitapulseprediction.streamlit.app/)
+
+### Certificate
