@@ -4,88 +4,56 @@
 Hi, I'm Affan! I am a Data Science student at Universitas Sebelas Maret, deeply interested in machine learning and its applications in solving real-world problems. My journey blends analytical thinking, technical skills, and a curiosity for intelligent systems that shape the future.
 
 ## Portfolio Projects
-🎬 Global Film Industry Dashboard
-Ever wondered which country leads in film production or which genre dominates the global scene? This interactive Power BI dashboard explores the pulse of the international film industry using real-world data.
+### 🎬 Global Film Industry Dashboard
+Ever wondered which country leads in film production or which genre dominates the global scene? This dashboard explores the pulse of the international film industry through data.
+Built with Power BI, the dashboard analyzes:
+- 🌍 Country-wise film production trends
+- 🎭 Genre preferences across regions
+- 🎥 Key contributions from actors, directors, and producers
 
-🔍 Overview
-This project analyzes:
+From Germany’s unexpected lead in total film output to Ekta Kapoor’s remarkable influence, the dashboard reveals insights that matter—for storytellers, strategists, and data enthusiasts alike.
 
-🌍 Country-wise film production trends
+**Project Description:** [View on LinkedIn](https://www.linkedin.com/in/muhammad-m-affandi-707028287/details/projects/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAEWXy_cBgw_nLy1RDcwUTI6sMrN4BwajLj4)  
 
-🎭 Genre preferences across regions
+**Live Demo:** [Explore the Dashboard](https://lnkd.in/gyurWd2Q)
 
-🎥 Key contributions from actors, directors, and producers
+### ❤️ Vitapulse – Heart Disease Prediction Web App
+Vitapulse is a user-friendly website developed using Streamlit that predicts the likelihood of heart disease in individuals aged 27 to 77. Designed to support early detection and awareness, this tool leverages machine learning to turn health data into actionable insight.
 
-From Germany’s unexpected lead in total film output to Ekta Kapoor’s remarkable influence, the dashboard delivers meaningful insights for storytellers, strategists, and data enthusiasts alike.
+**⚙️ Key Features**
 
-📊 Dashboard Highlights
-Dynamic visuals built in Power BI
+*🧠 Machine Learning Model trained on trusted heart disease datasets*
 
-Filterable views by region, year, and genre
+**🧾 Input Parameters:**
+- Chest Pain Type
+- Exercise-Induced Angina
+- Thallium Stress Test Results
+- Maximum Heart Rate
+- ST Depression
+- Gender
+- ST Segment Slope
+- Number of Major Vessels
+- Age
 
-Drill-downs into individual contributors (actors, directors, producers)
+**📊 Real-time Prediction Output with risk indicators**
 
-🔗 Links
-🔗 Live Demo: Explore the Dashboard
+*🎯 Target Users:* Individuals aged 27–77, a demographic at heightened cardiovascular risk
 
-🔗 Project on LinkedIn: View Project
+*🌐 Streamlit-based Interface that's clean, responsive, and accessible*
 
-❤️ Vitapulse – Heart Disease Prediction Web App
-Vitapulse is a machine learning-powered web application that predicts the likelihood of heart disease in users aged 27 to 77. Built using Streamlit, this app helps promote early detection and cardiovascular health awareness.
+**🎯 Purpose & Impact**
+The goal of Vitapulse is to empower users with personalized predictions, raise awareness about cardiovascular health, and showcase how data science can contribute to early prevention efforts.
 
-⚙️ Features
-🧠 Machine Learning Model trained on trusted datasets
+**🚀 Tech Stack**
+- Python, Pandas, Scikit-learn
+- Streamlit for frontend & deployment
+- Machine Learning: Logistic Regression / Random Forest (customizable)
+- GitHub & Streamlit Cloud for version control and hosting
 
-📥 User Inputs:
+**🔗 Live Demo**
 
-Chest Pain Type
+👉 [Github](https://github.com/MuhammadAffandi24/MAIProject)
 
-Exercise-Induced Angina
-
-Thallium Stress Test Results
-
-Maximum Heart Rate
-
-ST Depression
-
-Gender
-
-ST Segment Slope
-
-Number of Major Vessels
-
-Age
-
-📊 Real-Time Prediction Output with visual risk indicators
-
-🌐 Responsive Web UI (built with Streamlit)
-
-🎯 Target Audience
-Individuals aged 27–77
-
-Health-conscious users seeking risk awareness
-
-Educational institutions and healthcare analysts
-
-🚀 Tech Stack
-Component	Technology
-Backend	Python, Pandas, Scikit-learn
-ML Models	Logistic Regression / Random Forest
-Frontend	Streamlit
-Hosting	GitHub, Streamlit Cloud
-
-📌 Purpose & Impact
-Vitapulse aims to:
-
-Empower users with personalized health insights
-
-Promote preventive awareness for cardiovascular diseases
-
-Demonstrate how data science can support public health
-
-🔗 Links
-🧠 GitHub Repository: Visit Repo
-
-🌐 Live Web App: Try Vitapulse
+👉 Try [Vitapulse](https://vitapulseprediction.streamlit.app/)
 
 ### Certificate
