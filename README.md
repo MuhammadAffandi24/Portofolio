@@ -56,4 +56,18 @@ The goal of Vitapulse is to empower users with personalized predictions, raise a
 
 👉 Try [Vitapulse](https://vitapulseprediction.streamlit.app/)
 
-### Certificate
+## Certificate
+To strengthen my foundation in data science and artificial intelligence, I’ve completed several industry-recognized certifications and bootcamps. These programs have equipped me with both theoretical understanding and practical skills in machine learning, cloud-based AI, and data-driven decision-making.
+
+[Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/api/achievements/share/en-gb/muhammadaffandi24-2080/QT7LJDCE?sharingId=6A799BB8C74C34E3)
+
+[Microsoft Certified: Fundamentals of Machine Learning](https://learn.microsoft.com/api/achievements/share/en-gb/muhammadaffandi24-2080/74FLGVWZ?sharingId=6A799BB8C74C34E3)
+
+[DQLab Academy: Bootcamp Machine Learning & AI for Beginner Batch 14](https://academy.dqlab.id/Certificate_check/result/DQLABBMLABB14IBLUDS#mycertificate)
+
+[Data Science Orientation](https://www.credly.com/badges/243da35a-8afb-4483-b9a8-12e10c2cc671/linked_in_profile)
+
+## Contact Me
+[LinkedIn](https://www.linkedin.com/in/muhmaffandi/)
+
+Email: affanart615@gmail.com
