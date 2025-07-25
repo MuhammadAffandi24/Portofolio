@@ -14,7 +14,7 @@ From Germany’s unexpected lead in total film output to Ekta Kapoor’s remarka
 **Project Description:** [View on LinkedIn](https://www.linkedin.com/in/muhammad-m-affandi-707028287/details/projects/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAEWXy_cBgw_nLy1RDcwUTI6sMrN4BwajLj4)  
 **Live Demo:** [Explore the Dashboard](https://lnkd.in/gyurWd2Q)
 
-###❤️ Vitapulse – Heart Disease Prediction Web App
+### ❤️ Vitapulse – Heart Disease Prediction Web App
 Vitapulse is a user-friendly website developed using Streamlit that predicts the likelihood of heart disease in individuals aged 27 to 77. Designed to support early detection and awareness, this tool leverages machine learning to turn health data into actionable insight.
 ⚙️ Key Features
 - 🧠 Machine Learning Model trained on trusted heart disease datasets
@@ -41,6 +41,3 @@ The goal of Vitapulse is to empower users with personalized predictions, raise a
 🔗 Live Demo
 👉 [Github](https://github.com/MuhammadAffandi24/MAIProject)
 👉 Try [Vitapulse](https://vitapulseprediction.streamlit.app/)
-
-Want to add a section about dataset source, evaluation metrics, or a brief methodology? I can also help you craft a project summary for competitions or scholarship submissions. Just say the word!
- 
